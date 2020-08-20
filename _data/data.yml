@@ -165,23 +165,59 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 70%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 65%
 
       - name: Angular
-        level: 98%
+        level: 45%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 45%
 
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
+        
+      - name: Java
+        level: 70%
 
+      - name: C++
+        level: 50%
+
+      - name: C#
+        level: 60%
+        
+      - name: VB.NET
+        level: 60%
+        
+      - name: ASP.NET
+        level: 50%
+        
+      - name: PHP & Laravel
+        level: 70%
+        
+      - name: Swift
+        level: 50%
+        
+      - name: Vue & Vuetify
+        level: 65%        
+        
+      - name: Unreal Engine 4
+        level: 75%
+        
+      - name: Maya
+        level: 70%
+        
+      - name: Piskel tool
+        level: 85%
+        
+      - name: Prototyping tool - Draw.io
+        level: 90%        
+        
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    
