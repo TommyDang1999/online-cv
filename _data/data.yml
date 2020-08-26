@@ -52,28 +52,41 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Information Technology (Generic)
+      university: University of South Australia (UniSA)
+      time: 2018 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Experiencing, volunteering, and studying the esssential and widen or advance knowledge in the IT areas inlcuding some business and project management. 
+        Minoring in software, website and game development along with a little bit from the mobile development.
+          - Web development package - HTML, CSS and Javascript
+          - C++
+          - C#
+          - ASP.NET
+          - iOS apps development - Swift
+          - Android development - Android Studio and Java
+          - Tools for software development
+          - VB.NET
+          - Laravel 
+          - PHP
+          - Unreal Engine 4
+          - Maya
+          - Adobe Photoshop
+          - Wix.com
+          - Prototyping or Designing tool - draw.io
+          - Piskel tool - pixel art
+    - degree: Diploma of Information Technology
+      university: South Australian Institute of Business & Technology - University of South Australia
+      time: 2017 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Understanding and accustomming to the fundamental knowledge in the IT areas along with developing the design thinking and digital innovative mindset.
+          - Python
+          - Java
+          - Database fundamental - Microsoft SQL and MySQL
+          - IT fundamental
+          - Network fundamental
+          - System analysis
+          - IT Project Management
+          - Design thinking and digital innovation
 experiences:
     - role: Lead Developer
       time: 2015 - Present
