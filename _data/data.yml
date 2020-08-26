@@ -34,7 +34,7 @@ sidebar:
 
     interests:
       - item: Drawing and Painting (Designing)
-        link: https://www.deviantart.com/darksagegod
+        link: deviantart.com/darksagegod
 
       - item: Dungeon and Dragon
         link:
@@ -45,11 +45,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      A recent graduate university student with a curious, studious and open mindset who is seeking opportunities in the Information Technology fields 
+      with a 7 months intership expereience and volunteer of full stack web development. Passionate about the 
       Second paragraph if required.
 education:
     - degree: Bachelor of Information Technology (Generic)
@@ -62,6 +59,7 @@ education:
           - C++
           - C#
           - ASP.NET
+          - Data structure
           - iOS apps development - Swift
           - Android development - Android Studio and Java
           - Tools for software development
